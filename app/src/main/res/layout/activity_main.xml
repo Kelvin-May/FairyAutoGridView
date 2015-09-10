@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/C6"
+    tools:context=".MainActivity">
+
+    <com.k.widgets.AutoGridView
+        android:id="@+id/id_auto_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="5dp"
+        android:numColumns="6"
+        android:listSelector="@color/transparent"
+        android:verticalSpacing="5dp" />
+
+</RelativeLayout>

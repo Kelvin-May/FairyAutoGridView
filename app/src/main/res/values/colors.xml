@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="tab_name_selected">#44a9df</color>
+    <color name="header_bg">#44a9df</color>
+    <color name="menu_name">#ff070705</color>
+    <color name="color_background">#EEEEEE</color>
+    <color name="sub_menu_name_unselected">#ff070705</color>
+
+
+    <drawable name="white_fornight">#FFFFFFFF</drawable>
+    <drawable name="dark_fornight">#cfb5b5b5</drawable>
+    <drawable name="sub_menu_item_bottom_line_selected">#44a9df</drawable>
+    <drawable name="sub_menu_item_bottom_line_unselected">#a6aaad</drawable>
+
+    <!-- 定义全局的、跨模块的、通用的color -->
+    <color name="black">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="working_line">#dadada</color>
+
+    <!-- 发现 -->
+    <color name="discovery_news_list_bg">#F5F6F8</color>                <!-- 新闻列表背景 -->
+
+
+    <!-- 个人资料 -->
+    <color name="profile_split_bg">#d1d2d4</color>              <!-- 新闻单个主贴分隔线背景 -->
+    <color name="profile_view_bg">#f5f6f8</color>              <!-- 新闻单个主贴分隔线背景 -->
+    <color name="profile_text_color">#44a9df</color>              <!-- 新闻单个主贴分隔线背景 -->
+    <color name="profile_tel_color">#de6107</color>              <!-- 新闻单个主贴分隔线背景 -->
+    <color name="profile_mark_color">#ffaf13</color>
+    <!--找工作页面-->
+    <color name="jobfeeds_hightlight_color">#FF5000</color>
+    <color name="jobfeeds_button_bg">#FDFDFD</color>
+    <color name="jobfeeds_button_stroke">#CFCFCF</color>
+    <color name="divider_line">#D4D4D4</color>
+    <color name="jobfeeds_map_marker_light_color">#ff5518</color>
+    <!--工作详情页相关-->
+    <color name="jobinfo_title_color">#2f2f2f</color>
+    <color name="jobinfo_content_tips_color">#9c9c9c</color>
+    <color name="jobinfo_content_real_color">#636363</color>
+    <color name="jobinfo_content_title_tips_color">#ffaf13</color>
+
+    <!--全局相关的设置-->
+    <color name="app_main_bg">#FDFDFD</color>
+    <color name="textColorListPrimary">#333333</color> <!-- 列表1级文字颜色 -->
+    <color name="textColorListSecondary">#989898</color> <!-- 列表2级文字颜色 -->
+    <color name="textColorListTertiary">#b6b6b8</color>    <!-- 列表3级文字颜色 -->
+    <color name="textColorButtonSelected">#44a9df</color>
+    <color name="textColorButtonHignlight">#44a9df</color>
+    <color name="textColorButtonUnselect">#a2a2a2</color>
+    <color name="textColorBgUnselect">#f1f9fc</color>
+    <color name="textColorBgSelected">#ffffff</color>
+    <color name="textColorPopupupListBg">#f1f9fc</color>
+    <color name="jobinfo_second_title_color">#40a7e5</color>
+    <color name="jobinfo_warnning_color">#fff7e0</color>
+
+    <color name="skin_color_circle_normal">#b3b3b3</color>
+    <color name="skin_color_circle_selected">#3face4</color>
+    <color name="button_bg_pressed">#ffe7f0f4</color>
+
+    <!-- 消息相关 -->
+    <color name="message_color_line">#e6e6e6</color>
+    <color name="message_theme_color">#2ba6e5</color>
+
+    <!-- post列表颜色 -->
+    <color name="post_item_bg">#fdfdfd</color>                    <!-- 帖子列表项背景 -->
+    <color name="post_item_surround_line">#dcdcdc</color>         <!-- 帖子列表项边线 -->
+
+
+    <!-- 悬浮控件颜色 -->
+    <color name="color_pop_window_black_bg">#ed464646</color>
+    <color name="color_pop_window_btn_press_bg">#ff464646</color>
+    <color name="color_pop_window_splite_line">#ff464646</color>
+    <color name="color_gray_eaeaea">#eaeaea</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_purple_bd6aff">#bd6aff</color>
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+
+    <!-- 图片的张数tip颜色 -->
+    <color name="color_pic_num_tip_bg">#88000000</color>
+    <!-- GIF 图片提示tip颜色 -->
+    <color name="color_gif_tip_bg">#aa2ca5e7</color>
+
+    <!-- 透明标题栏 -->
+    <color name="feed_cover_text_shadow">#e6e6e6</color>
+
+    <!-- 地图页 -->
+    <color name="map_detail_shadow_bg">#bb000000</color>
+
+    <!-- <<<<<<<<<<<<<<<工作帮 UI设计规范>>>>>>>>>>>>>>>>>>> -->
+    <!-- 颜色规范 -->
+    <color name="C1">#2ca5e7</color>
+    <color name="C2">#ec7c18</color>
+    <color name="C3">#3c4852</color>
+    <color name="C4">#999999</color>
+    <color name="C5">#e6e6e6</color>
+    <color name="C6">#777e85</color>
+
+    <!-- 反应色-->
+    <color name="PreesedC1">#aa2ca5e7</color>
+    <color name="PreesedC2">#de6107</color>
+    <color name="TopicPreesedColor">#552ca5e7</color>
+
+    <!-- 分割线 -->
+    <color name="DivideLine">#cccccc</color>
+    <!-- 背景色 -->
+    <color name="Background">#f5f6f8</color>
+    <!-- 反应色 -->
+    <color name="ReAct">#ffe7f0f4</color>
+    <!-- 工厂标签底色 -->
+    <color name="TagBlue">#9ac2ff</color>
+    <color name="TagOrange">#f4c08e</color>
+    <!--摇一摇-->
+    <color name="LineColor">#ff818892</color>
+    <color name="TextColor">#ffb6babb</color>
+    <color name="RefColor">#ff1a1d20</color>
+    <color name="MainColor">#ff282d33</color>
+    <color name="LayoutRefColor">#ff13161a</color>
+    <color name="joinGroup">#e01fc0fc</color>
+
+    <!-- MineFragment -->
+
+    <!-- 头像外框颜色 -->
+    <color name="head_border_color">#99ffffff</color>
+
+    <!-- 性别、年龄的底图 男女-->
+    <color name="gender_age_male">#8ccdf5</color>
+    <color name="gender_age_female">#f08fb7</color>
+
+    <!-- 长按弹出的悬浮框 -->
+    <color name="cut_btn_text_color">#7b7d7f</color>
+    <color name="cut_btns_layout_bg_color">#ed464646</color>
+    <color name="cut_btns_support_already_click">#fa1f67</color>
+    <color name="chat_favour_text_clicked_color">#f44880</color>
+    <color name="chat_favour_text_click_color">#bebfbf</color>
+
+    <color name="square_channel_zhaogong">#33b5e5</color>
+    <color name="square_channel_jiaoyou">#aa4fd8</color>
+    <color name="square_channel_life">#f24a86</color>
+    
+    <color name="square_post_favor_red">#fa4552</color>
+
+</resources>
