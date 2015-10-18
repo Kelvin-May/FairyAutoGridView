@@ -257,7 +257,7 @@ public class AutoGridView extends RelativeLayout {
     class LongClickRunnable implements Runnable {
 
         /** 长按响应时间 */
-        private final long longClickDelay = 200;
+        private final long longClickDelay = 0;
 
         private MotionEvent event;
 
