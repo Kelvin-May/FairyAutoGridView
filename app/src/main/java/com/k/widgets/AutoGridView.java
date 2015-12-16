@@ -90,8 +90,9 @@ public class AutoGridView extends RelativeLayout {
                 }
                 break;
             case MotionEvent.ACTION_MOVE:
-                isMove = true;
+                
                 if (mFairyView.getVisibility() == View.VISIBLE) {
+                    isMove = true;
                     moveView(event);
                     mFairyView.moveView(event.getRawX(), event.getRawY());
                     return true;
